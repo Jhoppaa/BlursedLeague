@@ -8,11 +8,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>A 12-Team Dynasty Half-ppr TEP League</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome, esteemed managers, proud parents, and perpetual underachievers, to another season of the greatest dynasty league in the nation.</p>
+  <p>Whether you're managing your kids' schedules or just trying to figure out how to cook chicken nuggets without setting off the smoke alarm, we're glad you made it. And let's take a moment to recognize our fearless commissioner, Blake Dodd, who runs this league with the efficiency of a Walmart checkout line on Black Friday. Blake, your leadership is truly an inspiration-if by "inspiration" we mean a cautionary tale about what happens when you mix too much free time with questionable judgment.</p>
+  <p>Here's to another year of bad trades, worse smack talk, and Blake forgetting the league rules.</p>
 `;
 
 /*   STEP 3   */
