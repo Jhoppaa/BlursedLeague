@@ -23,16 +23,16 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    {
-      "managerID": "1050203925900681216"
-      "name": "Jeremy Hopper",
-      "location": "Bentonville, AR, USA", // (optional)
-      "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
-      "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "tradingScale": 5, // 1 - 10
-    },
+    // {
+    //   "managerID": "1050203925900681216"
+    //   "name": "Jeremy Hopper",
+    //   "location": "Bentonville, AR, USA", // (optional)
+    //   "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
+    //   "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+    //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+    //   "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+    //   "tradingScale": 5, // 1 - 10
+    // },
   ]
   
   
