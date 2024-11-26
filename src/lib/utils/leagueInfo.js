@@ -24,7 +24,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": "1050203925900681216",
+      "managerID": "967062004013867008",
       "name": "Jeremy Hopper",
       "location": "Bentonville, AR, USA", // (optional)
       "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
