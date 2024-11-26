@@ -27,6 +27,7 @@ export const managers = [
       "managerID": "967062004013867008",
       "name": "Jeremy Hopper",
       "location": "Bentonville, AR, USA", // (optional)
+      "bio": "Lover of the Game, it just doesn't love me back.",
       "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
